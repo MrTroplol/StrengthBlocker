@@ -1,0 +1,6 @@
+unknowCommand: "Commande introuvable"
+reload: "StrengthBlocker reloaded"
+noPermission: "You don't have permission to do that"
+replace:
+  potion: "Potion replaced"
+  splash: "Potion splash replaced"
